@@ -107,10 +107,11 @@ This repo uses **GSAP trial plugins** (free tier) in place of GSAP Club plugins.
 ```
 project/
 ├── public/
-│   └── images/          # Static assets & preview image
+│   └── images/
+│       └── preview.png   # Portfolio preview screenshot
 ├── src/
-│   ├── components/      # React components
-│   ├── assets/          # Fonts, icons, media
+│   ├── components/       # React components
+│   ├── assets/           # Fonts, icons, media
 │   ├── App.tsx
 │   └── main.tsx
 ├── index.html
