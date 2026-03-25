@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # 🚀 Vivek Bommalla — Portfolio Website
 
@@ -15,7 +15,10 @@ A modern, animated personal portfolio website built with **React**, **TypeScript
 
 ## 📸 Preview
 
-![Portfolio Preview](./public/images/preview.png)
+| | |
+|---|---|
+| ![Page 1](./public/images/p1.gif) | ![Page 2](./public/images/p2.gif) |
+| ![Page 3](./public/images/p3.gif) | ![Page 4](./public/images/p4.gif) |
 
 > 🔗 Live at: [vivek1251-portfolio.vercel.app](https://vivek1251-portfolio.vercel.app)
 
